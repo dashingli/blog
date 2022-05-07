@@ -7,7 +7,7 @@
 ```shell
 $ npm install -g hexo-cli
 ```
-安装完成后,切换到`~/blog`目录下,运行以下命令Cancel changes
+安装完成后,切换到`~/blog`目录下,运行以下命令
 ```shell
 $ hexo clean
 $ hexo g
